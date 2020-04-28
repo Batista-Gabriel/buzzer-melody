@@ -1,7 +1,7 @@
 # buzzerMelody
 
-Those melodies were made to work with buzzersong.h that you may download at https://github.com/SrManinka/buzzer-song-maker. \
- You may use it with ToneMelody function https://www.arduino.cc/en/Tutorial/toneMelody but will have to do some adjustments.
+*Those melodies were made to work with [buzzersong.h] (https://github.com/SrManinka/buzzer-song-maker). 
+*You may use it with [ToneMelody](https://www.arduino.cc/en/Tutorial/toneMelody) function  but will have to do some adjustments.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
